@@ -1,2 +1,2 @@
-# http://joedysonbezerra.github.io/menuresponsivo
+# http://menuresponsivo.github.io
 Menu responsivo criado para o artigo Flexbox - Menu Responsivo publicado no site da tableless.com.br
